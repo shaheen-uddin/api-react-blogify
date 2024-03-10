@@ -67,7 +67,7 @@
       "email": "shaheenelt@gmail.com",
       "firstName": "shaheen",
       "lastName": "uddin",
-      "avatar": "avatar-1709890561426-49501734.png",
+      "avatar": "avatar-1710057456265-303035094.jpg",
       "bio": "আপনি বিড়ালপ্রেমী হোন বা না হোন, বিড়াল আমাদের পৃথিবীর খাদ্যশৃঙ্খলের জন্য ভীষণ গুরুত্বপূর্ণ। অলস কিংবা আরামপ্রিয় হিসেবে পরিচিত বিড়াল বেঁচে থাকার জন্য সাধারণত মানুষের খাবার ও আবর্জনার ওপর নির্ভর করে। কিন্তু আরামপ্রিয় এই বিড়ালগুলো পৃথিবী থেকে হারিয়ে গেলে বা হঠাৎ মারা গেলে প্রকৃতিতে ব্যাপক বিরূপ প্রভাব পড়বে বলে ধারণা করছেন বিজ্ঞানীরা।",
       "password": "$2b$08$cuYhdH.stXCcj0wSQu5oJuAS7D2jQcnmxvNZB2M.6W/pgLX07P4Gi",
       "favourites": [
@@ -95,6 +95,11 @@
           "id": "885d64ff5f6249b4ec1f",
           "title": "sdfsdfsdfsd",
           "tags": "\"javascript, react, front-end\""
+        },
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
         }
       ]
     }
@@ -121,9 +126,6 @@
         },
         {
           "id": "3d2dde4b6548275fb066"
-        },
-        {
-          "id": "c0c609d7b1465392f754"
         }
       ],
       "comments": [
@@ -207,6 +209,36 @@
             "firstName": "Tapas",
             "lastName": "Adhikary",
             "avatar": "avatar-1708764766479-243448656.png"
+          }
+        },
+        {
+          "id": "dbd0fa5ebab798b247c2",
+          "content": "This is a awesome blog. your html-css templates are awesome.",
+          "author": {
+            "id": "c0c609d7b1465392f754",
+            "firstName": "shaheen",
+            "lastName": "uddin",
+            "avatar": "avatar-1709890561426-49501734.png"
+          }
+        },
+        {
+          "id": "6de00a94546c6a1c7473",
+          "content": "This is a my second comment after fixing. i hope it will work.",
+          "author": {
+            "id": "c0c609d7b1465392f754",
+            "firstName": "shaheen",
+            "lastName": "uddin",
+            "avatar": "avatar-1709890561426-49501734.png"
+          }
+        },
+        {
+          "id": "94cb993e6e3a42831dea",
+          "content": "This is my fift comment.",
+          "author": {
+            "id": "c0c609d7b1465392f754",
+            "firstName": "shaheen",
+            "lastName": "uddin",
+            "avatar": "avatar-1710057456265-303035094.jpg"
           }
         }
       ],
@@ -344,7 +376,28 @@
           "id": "c0c609d7b1465392f754"
         }
       ],
-      "comments": [],
+      "comments": [
+        {
+          "id": "a10b8914024cf6a1f941",
+          "content": "This is my fourth comment to fix bug.",
+          "author": {
+            "id": "c0c609d7b1465392f754",
+            "firstName": "shaheen",
+            "lastName": "uddin",
+            "avatar": "avatar-1709890561426-49501734.png"
+          }
+        },
+        {
+          "id": "232ad7d8864ea90d6f03",
+          "content": "This is my fifth comment to fix bug.",
+          "author": {
+            "id": "c0c609d7b1465392f754",
+            "firstName": "shaheen",
+            "lastName": "uddin",
+            "avatar": "avatar-1709890561426-49501734.png"
+          }
+        }
+      ],
       "createdAt": "2024-03-07T20:00:32.815Z"
     },
     {
@@ -864,7 +917,18 @@
       },
       "tags": "os,operating system,pc",
       "likes": [],
-      "comments": [],
+      "comments": [
+        {
+          "id": "6d31d639c14a5622e159",
+          "content": "This my third comment to fix bug.",
+          "author": {
+            "id": "c0c609d7b1465392f754",
+            "firstName": "shaheen",
+            "lastName": "uddin",
+            "avatar": "avatar-1709890561426-49501734.png"
+          }
+        }
+      ],
       "createdAt": "2024-03-09T11:35:22.617Z"
     },
     {
