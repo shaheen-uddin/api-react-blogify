@@ -1,0 +1,903 @@
+{
+  "users": [
+    {
+      "id": "7830e5903b889750f1e3",
+      "email": "sumitsaha@learnwithsumit.com",
+      "firstName": "Sumit",
+      "lastName": "Saha",
+      "avatar": "avatar-1708764729322-387087910.png",
+      "bio": "A Full Stack Web Application Developer from Bangladesh 🇧🇩 & a Programming Content Creator. Spend most of time coding outstanding projects or creating contents",
+      "password": "$2b$08$l8LuMMePmC0u.SdhhsMfqeo34HAF/o70eagtLO8V4HiHUyphNgu3q",
+      "favourites": []
+    },
+    {
+      "id": "346d7a36b3c41f3fbfa2",
+      "email": "tapasadhikary@learnwithsumit.com",
+      "firstName": "Tapas",
+      "lastName": "Adhikary",
+      "avatar": "avatar-1708764766479-243448656.png",
+      "bio": "Creating content is my passion. After spending over a decade in software engineering, I'm on a mission to make learning easy, and practical. I create written and video content on JavaScript, Web Development, Full Stack, and Career development.",
+      "password": "$2b$08$p15BeTInMoszGTNI3gtwNu2XiSadWVdPXaxQPQy8XZd1jj/6yPQae",
+      "favourites": []
+    },
+    {
+      "id": "f810ae24754a6cdc6d01",
+      "email": "akash@learnwithsumit.com",
+      "firstName": "Akash",
+      "lastName": "Ahmed",
+      "avatar": "avatar-1708764802524-290642702.png",
+      "bio": "I am a junior web developer, experience with web applications and building websites.",
+      "password": "$2b$08$FJn3tesDW9nqExgPr0MqKulICwf5B9FABPn1MjnImf2cXFm5o20KC",
+      "favourites": []
+    },
+    {
+      "id": "3d2dde4b6548275fb066",
+      "email": "saadhasan@learnwithsumit.com",
+      "firstName": "Saad",
+      "lastName": "Hasan",
+      "avatar": "avatar-1708764856675-623317122.jpg",
+      "bio": "I am Saad Hasan, self-taught Junior Software Developer from Bangladesh. I have been working as a Professional Frontend Developer for the last 1 year, Though I started my Self-Taught Programming Journey In 2014.",
+      "password": "$2b$08$e9uY0ZjxXJ9F4r36Ln4oCu4nLZ92OKaQ466VEVDtxBPCs/JL/ChR.",
+      "favourites": [
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        }
+      ]
+    },
+    {
+      "id": "65aff389f1822a5e9f43",
+      "email": "salahuddin@learnwithsumit.com",
+      "firstName": "Md",
+      "lastName": "salahuddin",
+      "avatar": "avatar-1709973980821-343127841.png",
+      "bio": "টিকটকের ক্রিয়েটর রিওয়ার্ডস প্রোগ্রামের মাধ্যমে আয়ের জন্য শুধু বড় ভিডিও বানালেই হবে না, সেটি অবশ্যই উন্নত রেজল্যুশনের হতে হবে। শুধু তা–ই নয়, ভিডিওর দর্শকসংখ্যা বা কতজন দর্শক ভিডিওটি সার্চ করেছেন, তার ওপর ভিত্তি করে অর্থ পাবেন নির্মাতারা। ফলে আয়ের পরিমাণও কমবেশি হবে।",
+      "password": "$2b$08$At/U5W1/ASt/F3zWCqOZnO75ftNVjwR.RVf0FEhEdQ0nHkll5tJ4m",
+      "favourites": [
+        {
+          "id": "bc01429964d3dcec5322",
+          "title": "স্মার্টফোনে এই ২১ অ্যাপ থাকলেই বিপদ",
+          "tags": "[\"smartphone\",\"android\",\"google\"]"
+        }
+      ]
+    },
+    {
+      "id": "c0c609d7b1465392f754",
+      "email": "shaheenelt@gmail.com",
+      "firstName": "shaheen",
+      "lastName": "uddin",
+      "avatar": "avatar-1709890561426-49501734.png",
+      "bio": "আপনি বিড়ালপ্রেমী হোন বা না হোন, বিড়াল আমাদের পৃথিবীর খাদ্যশৃঙ্খলের জন্য ভীষণ গুরুত্বপূর্ণ। অলস কিংবা আরামপ্রিয় হিসেবে পরিচিত বিড়াল বেঁচে থাকার জন্য সাধারণত মানুষের খাবার ও আবর্জনার ওপর নির্ভর করে। কিন্তু আরামপ্রিয় এই বিড়ালগুলো পৃথিবী থেকে হারিয়ে গেলে বা হঠাৎ মারা গেলে প্রকৃতিতে ব্যাপক বিরূপ প্রভাব পড়বে বলে ধারণা করছেন বিজ্ঞানীরা।",
+      "password": "$2b$08$cuYhdH.stXCcj0wSQu5oJuAS7D2jQcnmxvNZB2M.6W/pgLX07P4Gi",
+      "favourites": [
+        {
+          "id": "396304073f5ae5e4e878",
+          "title": "নতুন চিপ প্রযুক্তির প্রচারণা বড় বড় কম্পিউটার কোম্পানির জোট",
+          "tags": "chips,processor,tech"
+        },
+        {
+          "id": "569a85b93a7ae848a119",
+          "title": "মাদরাসা ও কারিগরি শিক্ষক-শিক্ষার্থীরা পাবেন বিশেষ টাকা, অর্থ যাবে নগদে",
+          "tags": "education, madrasah, salary"
+        },
+        {
+          "id": "6c33b31ecaa2b8917db2",
+          "title": "লিনিয়ার সার্চ । ডেটা স্ট্রাকচার ও এলগোরিদম",
+          "tags": "programming, algorithm"
+        },
+        {
+          "id": "bc01429964d3dcec5322",
+          "title": "স্মার্টফোনে এই ২১ অ্যাপ থাকলেই বিপদ",
+          "tags": "[\"smartphone\",\"android\",\"google\"]"
+        },
+        {
+          "id": "885d64ff5f6249b4ec1f",
+          "title": "sdfsdfsdfsd",
+          "tags": "\"javascript, react, front-end\""
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "id": "7c12b4b48531bcc995ae",
+      "title": "A guide to Prototype in JavaScript",
+      "content": "Developers may construct interactive and dynamic online apps with the robust programming language — JavaScript. The prototype is one of the most crucial ideas in JavaScript since it allows objects to share functionality.\n\n\nPrototypes in JavaScript\nEvery object in JavaScript has a prototype, which serves as the object’s bare bones. The methods and properties that an object will inherit are specified in the prototype. An object inherits all of its prototype’s properties and functions when you create a new one. \nIn this example, we define the Person constructor function, which has the two inputs of name and age. The Person prototype then gets a new method called sayHello that logs a welcome message to the console.\n\nThe new keyword is then used to create a new Person object called sumit. JavaScript searches the prototype chain of the sumit object for the sayHello method when the sayHello method is called on the sumit object. As the sayHello method is present in the Person prototype, JavaScript locates it and uses it to greet the sumit object.\n\nBecause you may share functionality amongst objects without having to write duplicate code, prototypes are crucial in JavaScript. For instance, you could simply create a new object and set its prototype to be the Person prototype if you wanted to create another object that had the same sayHello method as the Person object",
+      "thumbnail": "thumbnail-1708765741114-630266656.png",
+      "author": {
+        "id": "7830e5903b889750f1e3",
+        "firstName": "Sumit",
+        "lastName": "Saha",
+        "avatar": "avatar-1708764729322-387087910.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        },
+        {
+          "id": "f810ae24754a6cdc6d01"
+        },
+        {
+          "id": "3d2dde4b6548275fb066"
+        },
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [
+        {
+          "id": "83fbf83e7a33ca0ac1ea",
+          "content": "অনেক সুন্দর হয়েছে",
+          "author": {
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
+          }
+        },
+        {
+          "id": "a6cb6149982d6641fdcf",
+          "content": "Thank you for this wonderful video. Learning JS for last 1 year and this 'new' key word was giving me headache. I was searching for a better explanation for last one month. Even though I have found some, nothing beats learning in mother tongue. Great job.",
+          "author": {
+            "id": "f810ae24754a6cdc6d01",
+            "firstName": "Akash",
+            "lastName": "Ahmed",
+            "avatar": "avatar-1708764802524-290642702.png"
+          }
+        },
+        {
+          "id": "48554b3ebbc9a9a5187c",
+          "content": "আমি JavaScript এর অনেক  টিউটোরিয়াল দেখেছি অন্যান্য ভাইয়াদের channel থেকে। আমার মনে হয়, কিছু কিছু ভাইদের উদ্দেশ্য হয়তো বিগিনারদের ভীতু করা, ভাগিয়ে দেওয়া যে সহজ বিষয় কঠিন করে বুঝানো। আমি আপনার মধ্যে সেটা একদমই দেখি না। সত্যিকার অর্থে- আপনি একজন বিগিনারবান্ধব।। অসংখ্য ধন্যবাদ ভাইয়া আপনাকে।",
+          "author": {
+            "id": "3d2dde4b6548275fb066",
+            "firstName": "Saad",
+            "lastName": "Hasan",
+            "avatar": "avatar-1708764856675-623317122.jpg"
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:09:01.121Z"
+    },
+    {
+      "id": "4321b782f360f58c8c88",
+      "title": "JSON Parse | Android | Java",
+      "content": "JSON stands for JavaScript Object Notation. It is structured, lightweight, human-readable and easy to parse. It’s the best alternative to XML when our android app needs to interchange data from the server. XML parsing is very complex as compare to JSON parsing. First, We have to understand how JSON works. JSON contains Objects, Arrays and key and value. An object is represented by Curly Braces: “{}”, Array is represented by Square Brackets: “[]” Everything between curly braces :{} is called JSON Object & everything between square brackets : [] is a JSON Object. A JSON object can contain different key-value pairs. The value of a key can be an Array. And Array may contain different Objects. And Multiple objects are separated by a comma. Seems difficult?\n\nNo, It’s not. See the Sample JSON file which will help you to understand it by your own and we will use this to fetch data. This JSON file is hosted on https://api.myjson.com/bins/xcuq8",
+      "thumbnail": "thumbnail-4321b782f360f58c8c86.webp",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c85",
+      "title": "Scope and Scope Chain in JavaScript",
+      "content": "In Simple, we can assume Scope as the area, where our program can access our declared variables. Simple is that. There is no Rocket Science behind this to get confused.\n\nBut there are some types of Scope, and we need to understand the differences and how it works. Cause, In larger projects it will help us to avoid collisions.\n\nSo there are 3 types of Scope in JavaScript:\n\n1. Global Scope\n\n2. Function Scope\n\n3. Block Scope.\n\nGlobal Scope:\n\nGlobal Scope is a global area of our JavaScript Codes. It is a default Scope. Any Variable or function that’s not inside any function or block, is inside the global scope by default. So everything we write in our code is into the Global Scope or Globally accessible.\n\nLet’s See an Example:\n\n\nSo, in the example, we declared the name variable and the showName() function in the Global Scope. We can get the value of the name and invoke showName() function from anywhere. That’s we are able to access the name variable from inside the showName() function.\n\nFunctional Scope:\n\nFunctional scope is also known as Local Scope. In functional Scope, variables are declared into a function which means between the curly brackets. And most importantly those variables are only accessible into the function. We can access those variables outside of the function.\n\nLet’s see an example:\n\n\nSo, We can see that we cannot access the variables which are declared in the functional scope outside of that function. And also we can see that functional scope creates its own environment and it doesn’t modify the global variables (name variable remains ‘Tamim’ )\n\nBlock Scope:\n\nSo, Block Scope is almost similar to Function Scope but just applicable for let and const. The area between if/else, loop or switch case is considered as block scope. The declared let/const variables can only be accessed into the scope. But It differs when it comes to the var. We can access the ‘var’ variables outside of the block scopes.\n\nLet’s see an Example:\n\n\nScope Chaining:\n\nScope Chaining is another important concept in JavaScript. Actually, It’s the behavior of JavaScript, how the program will act, or which variable will javaScript pick at a certain point. As we know till now about the three scopes, When JavaScript runs, the browser scope tries to find a variable value in the current scope. If it could not find the value, It tries to go outside of the current scope to find out the value. And it will continue this process until it finds out the variable value or it reaches the Global Scope. In the end, if It fails to find out the value of the variable it will throw a ‘ReferenceError’ or print undefined. And try to relate it by yourself.",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "JavaScript, Async, Scope",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [
+        {
+          "id": "19becccf4ebf3e6cf385",
+          "content": "অনেক সুন্দর হয়েছে",
+          "author": {
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c89",
+      "title": "React useMemo Hook",
+      "content": "useMemo is used to memoize the result of a function, meaning it caches the result and returns it when the inputs to that function haven't changed since the last render. It takes two arguments: the function to memoize and an array of dependencies. If any of the dependencies change between renders, the memoized function is re-executed; otherwise, the cached result is returned.",
+      "thumbnail": "thumbnail-4321b782f360f58c8c89.avif",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c86",
+      "title": "এন্ড্রয়েড পার্মিশন",
+      "content": "এন্ড্রয়েড ইউজারদের ললিপপ খাওয়ানোর পাশাপাশি তাদের নিরপত্তার বিষয়টি নিশ্চিত করতে ললিপপ ভার্সন থেকে রান টাইম পার্মিশন নামক একটি অদ্ভুত বস্তু গুগল তাদের খাতায় যোগ করেছে । যেখানে, কোনো এপ ডেভেলোপার যদি তার এপ ইউজারের Storage, Camera, Contacts, Locationঅথবা Microphone সহ অন্যান্য যেকোনো গুরুত্বপূর্ণ এরিয়াতে হাত দিতে চাইলে অবশ্যই ইউজার কতৃক পারমিশন নিয়ে তারপরেই হাতা হাতি করতে হবে । আমার মনে হয় গুগল বাংলাদেশের কথা ভেবেই এই বস্তুটি তাদের খাতায় যুক্ত করেছেন । কারণ, আমরা (৯০% মানুষ) আল্লাহর ওয়াস্তে আমাদের এপ কি কি পার্মিশন নিচ্ছে অথবা Terms & Condition এ কি লেখা আছে সেট না পড়েই সব কিছু তে Allow করে দেই (আমিও এর ব্যাতিক্রম নই 🤓 )। যেটা অনেকটা ঝুকিপূর্ণ, কারণ আমাদের কিছু ভাই রয়েছে (হ্যাকার) যারা RAT বা ট্রজান হর্স দিয়ে খুব সুন্দর করে ভিকটিমের ডেটা নিজের মনে করে চুরি করে নিতে পারে । তা আমি সে বিষয়ে কিছু না বলে আমরা এখানে দেখবো কিভাবে আমরা রানটাইম ইউজারের কাছে পার্মিশন নিতে পারবো । 😁 \n আগের ভার্সন গুলোর মতই আমাদের আগেই AndroidManifest.xml এ পার্মিশন গুলো উল্লেখ করে নিতে হবে",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [
+        {
+          "id": "19becccf4ebf3e6cf385",
+          "content": "অনেক সুন্দর হয়েছে",
+          "author": {
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c87",
+      "title": "Create Custom Dialog with listview | Android | Java",
+      "content": "Often we might need to create a custom dialog with listview to choose different kinds of actions for a particular option. In certain cases, we use such type of menu items for menus. So, In this post, I will show you how you can create this Custom Dialog with Listview :",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "bc01429964d3dcec5322",
+      "title": "স্মার্টফোনে এই ২১ অ্যাপ থাকলেই বিপদ",
+      "content": "স্মার্টফোনে নজরদারি করতে সক্ষম ২১টি অ্যাপের সন্ধান পেয়েছে সাইবার নিরাপত্তা নিয়ে কাজ করা প্রতিষ্ঠান ‘ম্যালওয়্যার ফক্স’। প্রতিষ্ঠানটির গবেষকদের দাবি, অ্যাপগুলো নামালেই ব্যবহারকারীদের ফোনে স্পাইওয়্যার ম্যালওয়্যার প্রবেশ করে। এরপর গোপনে ফোন থেকে গুরুত্বপূর্ণ সব তথ্য চুরি করে সাইবার অপরাধীদের কাছে নিয়মিত পাঠাতে থাকে।",
+      "thumbnail": "thumbnail-1709992345900-658627721.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709973980821-343127841.png"
+      },
+      "tags": "[\"smartphone\",\"android\",\"google\"]",
+      "likes": [
+        {
+          "id": "65aff389f1822a5e9f43"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-09T13:52:25.925Z"
+    },
+    {
+      "id": "0ccd20237f7544aeec86",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840977010-93238384.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [
+        {
+          "id": "65aff389f1822a5e9f43"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:37.016Z"
+    },
+    {
+      "id": "fe17d9132a47888dcfdb",
+      "title": "This is a test title.",
+      "content": "বিশ্ববিদ্যালয় মঞ্জুরি কমিশনের (ইউজিসি) চেয়ারম্যান (অতিরিক্ত দায়িত্ব) অধ্যাপক মুহাম্মদ আলমগীর শিক্ষায় নানা সংকটের কথা উল্লেখ করেন। তিনি বলেন, প্রাথমিক ও মাধ্যমিক শিক্ষা শক্তিশালী করতে না পারলে ভালো মানের উচ্চশিক্ষা নিশ্চিত করা সম্ভব নয়। তিনি বলেন, ‘পছন্দ করেন বা না করেন, উচ্চশিক্ষাসহ আমাদের পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা। যতগুলো দেশ এগিয়ে গেছে, তারা মাতৃভাষায় পড়াশোনা করে।’",
+      "thumbnail": "thumbnail-1709841632812-186680546.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709826195634-669209034.png"
+      },
+      "tags": "\"javascript, react\"",
+      "likes": [
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-07T20:00:32.815Z"
+    },
+    {
+      "id": "3483cc762474288e246b",
+      "title": "Asian man working development of programming and encryption technology website design programmers on desk in office.",
+      "content": ".NET is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.\r\n\r\nASP.NET Core extends the .NET developer platform with tools and libraries specifically for building web apps.",
+      "thumbnail": "thumbnail-1709842887528-282457487.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709826195634-669209034.png"
+      },
+      "tags": "photo, camera, video",
+      "likes": [
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-07T20:21:27.532Z"
+    },
+    {
+      "id": "a6aff4649d91dd515164",
+      "title": "This is my fantastic blog after fixing it late night",
+      "content": " শিল্পমন্ত্রী নূরুল মজিদ গত মঙ্গলবার জেলা প্রশাসকদের সম্মেলনে বলেছিলেন ‘খেজুর নিয়ে আমাদের অভাব অভিযোগ আছে। বরই দিয়ে ইফতার করেন না কেন? আঙুর লাগবে কেন, আপেল লাগবে কেন? আর কিছু নাই আমাদের দেশে। পেয়ারা দেন না, সবকিছু দেন। প্লেটটা (ইফতারির) ওইভাবে সাজান।’ শিল্পমন্ত্রীর এমন বক্তব্যের সমালোচনা করেন বিএনপির নেতা গয়েশ্বর চন্দ্র রায়।",
+      "thumbnail": "thumbnail-1709842598876-12004930.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709826195634-669209034.png"
+      },
+      "tags": "\"laptop, processor\"",
+      "likes": [
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-07T20:16:38.882Z"
+    },
+    {
+      "id": "569a85b93a7ae848a119",
+      "title": "মাদরাসা ও কারিগরি শিক্ষক-শিক্ষার্থীরা পাবেন বিশেষ টাকা, অর্থ যাবে নগদে",
+      "content": "বেসরকারি স্কুল-কলেজের শিক্ষক, সরকারি-বেসরকারি স্কুল, কলেজ ও বিশ্ববিদ্যালয়ের শিক্ষার্থীদের মতো মাদরাসা ও কারিগরি শিক্ষাপ্রতিষ্ঠান, শিক্ষক ও শিক্ষার্থীরাও বিশেষ মঞ্জুরি পাবেন। এ জন্য আবেদন করতে হবে অনলাইনে।\r\n\r\nমাদরাসা ও কারিগরি শিক্ষাপ্রতিষ্ঠান, শিক্ষক ও শিক্ষার্থীদের ২০২৩-২৪ অর্থবছরের রাজস্ব বাজেটের এই বিশেষ মঞ্জুরির জন্য আবেদন চলছে। এ টাকা পেতে আবেদন করা যাবে আগামী ১০ মার্চ পর্যন্ত। সরাসরি বা জেলা প্রশাসকের মাধ্যমে কারিগরি ও মাদরাসা শিক্ষা বিভাগের সচিব বরাবর আবেদন করতে হবে মাদরাসা ও কারিগরি শিক্ষাপ্রতিষ্ঠান, শিক্ষক ও শিক্ষার্থীদের।",
+      "thumbnail": "thumbnail-1709987397496-552966370.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709973980821-343127841.png"
+      },
+      "tags": "education, madrasah, salary",
+      "likes": [
+        {
+          "id": "65aff389f1822a5e9f43"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-09T12:29:57.516Z"
+    },
+    {
+      "id": "a33fb89e93f9bba0c588",
+      "title": "First city polls under new AL govt today",
+      "content": "Mymensingh and Cumilla cities go to polls today to pick their mayors and councillors, just two months after the Awami League formed a new government.\r\n\r\nAs the ruling party is not officially participating in the elections, six of its leaders -- two in Cumilla and four in Mymensingh -- are running for mayor as independents. The BNP boycotted the polls and two of its expelled leaders are running for mayor in Cumilla.",
+      "thumbnail": "thumbnail-1709925795330-545552198.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709890561426-49501734.png"
+      },
+      "tags": "[\"poll\",\"election\",\"vote\"]",
+      "likes": [
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-08T19:23:15.334Z"
+    },
+    {
+      "id": "fc793b07954408f65e34",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840976098-995828056.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:36.106Z"
+    },
+    {
+      "id": "210470a416ea45b625b8",
+      "title": "Node.js back-end debugging process",
+      "content": "Node.js Debugging Tools\nNode.js provides a range of debugging tools and techniques to debug back-end applications. Here are some of the popular ones:\n\n1. Console.log()\nConsole.log() is one of the most basic and widely used debugging techniques in Node.js. It is a simple function that logs messages to the console, which can be used to trace the execution flow and identify bugs. For example:\n\n2. Debugger Statement\nDebugger statement is a built-in Node.js debugger that stops the execution of code at a specific point and allows you to inspect variables, call stack, and execute code line by line. For example:3. Node.js Debug Module\nThe Node.js debug module is a powerful tool that provides a range of debugging options, including:\n\nBreakpoints\nConditional breakpoints\nWatch expressions\nStepping over, into, and out of functions\nHere is an example of how to use the debug module:\n\n3. Node.js Debug Module\nThe Node.js debug module is a powerful tool that provides a range of debugging options, including:\n\nBreakpoints\nConditional breakpoints\nWatch expressions\nStepping over, into, and out of functions\nHere is an example of how to use the debug module:\n\n",
+      "thumbnail": "thumbnail-1708794403625-465722215.png",
+      "author": {
+        "id": "7830e5903b889750f1e3",
+        "firstName": "Sumit",
+        "lastName": "Saha",
+        "avatar": "avatar-1708764729322-387087910.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [
+        {
+          "id": "c0c609d7b1465392f754"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T17:06:43.629Z"
+    },
+    {
+      "id": "6c33b31ecaa2b8917db2",
+      "title": "লিনিয়ার সার্চ । ডেটা স্ট্রাকচার ও এলগোরিদম",
+      "content": "গত ৫-৬ বছর থেকে Android, Fontend, Backend, Web Security ইত্যাদি নিয়ে কাজ করতে করতে একটা সময় মনে হলো, কোনো একটা জিনিস শেখা বাদ পরে গেছে। একটু কিছু চিন্তার পর বুঝতে পারলাম প্রোগ্রামিং এর সব থেকে important জিনিসটাই শেখা হয় নাই। আর তা হলো “ Data Structure & Algorithm ” । এটির গুরুত্ব নিয়ে বলার কিছু নাই।\n\nতাই Quarantine এর শেষের দিকে মাইন্ড সেটআপ করলাম,সব কিছু বাদ দিয়ে DS & Algo তেই ফোকাস করবো। তাই Android Studio কে লাল সালাম দিয়ে শেখা শুরু করলাম । এখন যখন আমি এই পোস্টটি লিখছি, তখনো আমি Data Structure & Algorithm এ খুব ভালো না, বলতে গেলে পারিই না। একদম বাচ্চা আমি। তবে এই পোস্ট টি মূলত আমি নিজের জন্যেই লিখছি, যেন ভবিষ্যতে যদি কখনো দরকার পরে বা কিছু ভূলে যাই তখবে নিজের লেখা জার্নাল দেখে আবার মনে করে নিতে পারি। (তবে এই পোষ্ট গুলো অবশ্যই পাবলিক থাকবে যেন অন্য কেউ যদি চায়, এগুলো follow করতে পারে )তাই এই পোষ্ট কিংবা এর পরবর্তীতে Data Structure & Algorithm নিয়ে পোষ্ট গুলো তে ভূল থাকা স্বাভাবিক। ভুলত্রুটি গুলো দেখিয়ে দেবার অনুরোধ রইলো।\n\nলিনিয়ার সার্চ এলগোরিদম\n\nএই অনেক অনেক সার্চিং এলগোরিদমের মধ্যে লিনিয়ার সার্চ সব থেকে সহজ একটি এলগোরিদম। ধরুন আপনি একটি বই এর তাক থেকে কোনো একটি নিদৃষ্ট বই খুজবেন অথবা তো আমি চাইলে এক এক করে খুজে বের করতে পারেন অথবা randomly ও খুজতে পারেন। লিনিয়ার সার্চের ক্ষেত্রে আমরা নিদির্ষ্ট বইটি এক এক করে খুজবো।\nঅর্থাৎ বই এর তাকের প্রথম থেকে খোজা শুরু করবো, প্রথম বইটি দেখবো। সেটা কি আমাদের কাংখিত বই ? যদি বইটি আমরা পেয়ে যাই তবে খোজা বাদ দিবো আর না পেলে খুজতেই থাকবো যতক্ষন পর্যন্ত আমরা আমাদের কাংখিত বই টি না পাচ্ছি ।\n\n\nআচ্ছা ধরুন, একটি Array আছে যার মধ্যে ৫,১২,১৮,২০,২৬ এই ৫টি Int ভ্যালু আছে। এখন আমাদের খুজতে হবে ২০ ভ্যালু টি array এর কোন পজিশন/index এ আছে।\n\nতবে ২০ এর ইনডেক্স খোজার জন্য আমরা নিচের ধাপ গুলো ফলো করতে পারি\n\nধাপ-১ঃ ধরি লিস্টে n সংখ্যক উপাদান আছে।\n\nধাপ-২ঃ এখন আমরা i এর মান ০ নেই এবং i এর মান (n-1) পর্যন্ত বাড়াতে থাকবো। প্রতিটি মানের জন্যে ধাপ-৩ এ যাই।\n\nধাপ-৩ঃ i এর মান array এর পজিশন/ইনডেক্স হিসেবে চিন্তা করি এবং array[i] এর ভ্যালু আমাদের কাংক্ষিত ভ্যালুর সাথে মিলে কিনা তা চেক করে দেখি। যদি মিলে যায় তবে ধাপঃ৪ এ যাই নাহলে আবার ধাপঃ২ এ যাই।\n\nধাপ-৪ঃ i এর ভ্যালু return করি এবং প্রোগ্রাম বন্ধ করি ।",
+      "thumbnail": "thumbnail-1708765461841-967006271.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "programming, algorithm",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-02-24T09:04:21.871Z"
+    },
+    {
+      "id": "9d5598ab44600a379103",
+      "title": "Dev Retro 2022: What made me a better developer this year?",
+      "content": "Writing about the Dev Retro 2022 will be a bit off track if I do not discuss the journey briefly before it, which shaped my career as a blogger. The year 2021 was about writing. Writing here on my blog, freeCodeCamp, CSS-Tricks, Dev, and many other platforms.\n\nAt the end of 2021, I could establish myself as a technology blogger on the prominent platforms mentioned. The most exciting fact was that I was one of the top contributors/most-read authors on all these platforms.\n\nWhile these achievements were immense, I was still wondering about doing something else, trying something different in 2022. To be honest, I was trying to put myself out of my comfort zone, banking on all experiences I've gained over the years.\n\nThis article captures my journey of becoming a better developer this year. I hope it inspires you somehow, and if it does, I'll appreciate you leaving a comment. Also, for some of you who are part of this journey, I want to thank you from the bottom of my heart ❤️.",
+      "thumbnail": "thumbnail-1708793859418-241650391.png",
+      "author": {
+        "id": "346d7a36b3c41f3fbfa2",
+        "firstName": "Tapas",
+        "lastName": "Adhikary",
+        "avatar": "avatar-1708764766479-243448656.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-02-24T16:57:39.425Z"
+    },
+    {
+      "id": "965584a7b281d9f99c14",
+      "title": "What do you need to know to become proficient in JavaScript?",
+      "content": "JavaScript is everywhere! It's the web browser's language and helps you create web, mobile, and desktop applications. Today, JavaScript is not limited to the client side alone; it is equally popular as the base of server-side frameworks like Node.js and Deno. If you are considering picking up and mastering a programming language, JavaScript is a safe bet.\n\nRecently I have focused on chalking out a path about how to learn JavaScript effectively using a learning model. Please check it out in the video below. I believe that it will help you to learn the language faster.\n\nThe video above talks about how learning JavaScript effectively, and in this article, we will focus on the what part. We will go over the topics that you must consider putting on your plate when you plan to learn JavaScript.\n\nWe will also get introduced to a community-driven JavaScript Roadmap Guide that you can make use of in learning the language and also can contribute to. We will mention the chapters from the guide occasionally, but if you are interested, please feel free to check out the entire guide early.",
+      "thumbnail": "thumbnail-1708793953356-660744456.png",
+      "author": {
+        "id": "346d7a36b3c41f3fbfa2",
+        "firstName": "Tapas",
+        "lastName": "Adhikary",
+        "avatar": "avatar-1708764766479-243448656.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-02-24T16:59:13.363Z"
+    },
+    {
+      "id": "03f51613913735b4b2fe",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840968608-686730823.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:28.611Z"
+    },
+    {
+      "id": "7e693b2c060093cde40b",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840974938-253948745.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:34.942Z"
+    },
+    {
+      "id": "eb11b9b5288a8f9c2c01",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840975510-810268760.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:35.515Z"
+    },
+    {
+      "id": "7aa4b8ade9dca6f21a8b",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840976104-51368427.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:36.113Z"
+    },
+    {
+      "id": "59a1c4ea9facd89d0742",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840976546-619910056.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:36.554Z"
+    },
+    {
+      "id": "885d64ff5f6249b4ec1f",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840976563-590775319.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:36.564Z"
+    },
+    {
+      "id": "ea217d33cc3cfab5c997",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840977026-685187601.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:37.028Z"
+    },
+    {
+      "id": "634171e69d74ea3453fb",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840985903-659348393.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:45.908Z"
+    },
+    {
+      "id": "7533bb1267f9a5901590",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709840988680-122313047.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:49:48.685Z"
+    },
+    {
+      "id": "3130c68be57b192509cc",
+      "title": "sdfsdfsdfsd",
+      "content": "শিক্ষায় নানা সংকট রয়েছে। আনন্দ নেই শিক্ষাব্যবস্থায়। পাঠ্যবই নিরানন্দের বিষয় হয়ে গেছে। নোট, গাইড, কোচিংসহ শিক্ষায় নানা সিন্ডিকেটের প্রভাব। কিন্তু শিক্ষা নিয়ে সমস্যার মূলে না গিয়ে উপসর্গ ধরে আংশিক বা খণ্ডিতভাবে সিদ্ধান্ত নেওয়া হচ্ছে। তাই শিক্ষা খাত নিয়ে সামগ্রিক পরিকল্পনা দরকার। আর পুরো শিক্ষার মাধ্যম হওয়া উচিত মাতৃভাষা।",
+      "thumbnail": "thumbnail-1709841118456-943521409.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"javascript, react, front-end\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T19:51:58.460Z"
+    },
+    {
+      "id": "17074b66f768dcd8f178",
+      "title": "This is my awesome blog.",
+      "content": "ASP.NET Core comes with everything you need to build web apps including Blazor, a web UI framework for quickly creating fast, secure, and robust web apps that run anywhere.",
+      "thumbnail": "thumbnail-1709842242704-752704789.png",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709826195634-669209034.png"
+      },
+      "tags": "\"asp.net, backend\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T20:10:42.708Z"
+    },
+    {
+      "id": "659e66008304923b06c6",
+      "title": "বরফশূন্য হওয়ার ঝুঁকিতে উত্তর মেরু",
+      "content": "আগামী এক দশকের মধ্যে উত্তর মেরু বরফশূন্য হয়ে উঠতে পারে বলে আশঙ্কা করেছেন বিজ্ঞানীরা। যুক্তরাষ্ট্রের কলোরাডো বোল্ডার বিশ্ববিদ্যালয়ের নতুন সমীক্ষায় এমনটাই দাবি করছেন বিজ্ঞানীরা। উত্তর মেরু বা আর্কটিক অঞ্চলে আগামী কয়েক বছরে কার্যত কোনো সামুদ্রিক বরফ গ্রীষ্মের সময় দেখা যাবে না।",
+      "thumbnail": "thumbnail-1709846087362-128837342.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709845798615-412801215.jpg"
+      },
+      "tags": "\"global-warming\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T21:14:47.366Z"
+    },
+    {
+      "id": "2ac8ccb6ad1ab3257079",
+      "title": "হোয়াটসঅ্যাপে কল করে কি ফোন হ্যাক করা যায়",
+      "content": "ব্যক্তিগত বা প্রাতিষ্ঠানিক বিভিন্ন কাজের পাশাপাশি সহজে একে অপরের সঙ্গে নিরাপদ যোগাযোগের জন্য নিয়মিত হোয়াটসঅ্যাপ ব্যবহার করেন অনেকেই। অনেকের মনেই প্রশ্ন রয়েছে, হোয়াটসঅ্যাপে অডিও-ভিডিও কল করে কি দূর থেকে অন্যের স্মার্টফোন হ্যাক করা যায়? অপরিচিত ব্যক্তিদের ফোনকলে সাড়া না দিলেও কি স্মার্টফোন হ্যাক হতে পারে? সাইবার নিরাপত্তা প্রতিষ্ঠান অ্যাভাস্ট অনলাইনে নিরাপদ থাকার বেশ কিছু পদ্ধতি নিজেদের ওয়েবসাইটে প্রকাশ করেছে, যার মধ্যে হোয়াটসঅ্যাপ ব্যবহারকারী ব্যক্তিদের করা প্রশ্নগুলোর উত্তরও রয়েছে। অ্যাভাস্টের ওয়েবসাইট থেকে তথ্যগুলো দেখে নেওয়া যাক।",
+      "thumbnail": "thumbnail-1709846440192-37769606.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "\"social-media, whatsapp\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-07T21:20:40.196Z"
+    },
+    {
+      "id": "27c674c2bb7989933393",
+      "title": "সন্তান প্রসবের জন্য খরচ নেই, উল্টো মা পুরস্কার পান এক মাসের ওষুধ ",
+      "content": "দিনমজুর গোপাল টুডুর স্ত্রী কৃষ্ণা টুডু (২৪)। কিছুদিন আগে মা হয়েছেন কোনোরকম অস্ত্রোপচার ছাড়াই। হাসপাতাল, চিকিৎসক, সেবিকা, মিডওয়াইফ, ওষুধ–পথ্য কোনো কিছুর অভাব হয়নি। নবজাতক নিয়ে হাসপাতালও ছেড়েছেন হাসতে হাসতে। কারণ, সন্তান প্রসবের জন্য কোনো টাকা খরচ করতে হয়নি তাঁকে। উল্টো হাসপাতাল ছাড়ার আগে বিনা মূল্যে মাসখানেকের ওষুধ দিয়েছে হাসপাতাল কর্তৃপক্ষ।",
+      "thumbnail": "thumbnail-1709877283487-935868975.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709845798615-412801215.jpg"
+      },
+      "tags": "\"childbirth\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T05:54:43.522Z"
+    },
+    {
+      "id": "1f495147696f22390202",
+      "title": "পৃথিবী থেকে সব বিড়াল হারিয়ে গেলে কী হবে",
+      "content": "আপনি বিড়ালপ্রেমী হোন বা না হোন, বিড়াল আমাদের পৃথিবীর খাদ্যশৃঙ্খলের জন্য ভীষণ গুরুত্বপূর্ণ। অলস কিংবা আরামপ্রিয় হিসেবে পরিচিত বিড়াল বেঁচে থাকার জন্য সাধারণত মানুষের খাবার ও আবর্জনার ওপর নির্ভর করে। কিন্তু আরামপ্রিয় এই বিড়ালগুলো পৃথিবী থেকে হারিয়ে গেলে বা হঠাৎ মারা গেলে প্রকৃতিতে ব্যাপক বিরূপ প্রভাব পড়বে বলে ধারণা করছেন বিজ্ঞানীরা।\r\n\r\nযুক্তরাষ্ট্রের পারডু বিশ্ববিদ্যালয়ের সেন্টার ফর দ্য হিউম্যান-অ্যানিমেল বন্ডের পরিচালক অ্যালেন বেক বলেন, বিড়াল প্রকৃতির অন্যতম শিকারি প্রাণী। এরা ছোট প্রাণীদের শিকার করে। শস্যাগার ও শস্য সঞ্চয়ের স্থানে থাকা ইঁদুর মেরে ফেলে বিড়াল। আর তাই হঠাৎ করে বিড়াল হারিয়ে গেলে ইঁদুরের সংখ্যা নাটকীয়ভাবে বৃদ্ধি পাবে।১৯৭৯ সালে নিউজিল্যান্ডের একটি গবেষণায় দেখা যায়, দেশটির ছোট একটি দ্বীপে বিড়াল নির্মূল করার পর সেখানে ইঁদুরের সংখ্যা অল্প সময়ের মধ্যে প্রায় চার গুণ পর্যন্ত বেড়ে গিয়েছিল",
+      "thumbnail": "thumbnail-1709879042804-649029964.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709845798615-412801215.jpg"
+      },
+      "tags": "\"cat, animal\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T06:24:02.814Z"
+    },
+    {
+      "id": "1283ff92a7659800ffc5",
+      "title": "দ্বিতীয় প্রজন্মের পেন্টিয়াম প্রসেসর ছাড়ে ইন্টেল",
+      "content": "পেন্টিয়াম সিরিজের দ্বিতীয় প্রজন্মের পেন্টিয়াম টু প্রসেসর বাজারে ছাড়ে শীর্ষ প্রসেসর নির্মাতা ইন্টেল করপোরেশন। এই প্রসেসরে মোবাইল ডিক্সন কেসে ৭৫ লাখ ট্রানজিস্টরের সমাবেশ ঘটায় ইন্টেল। ডিক্সনের ছিল ২৫৬ কিলোবাইট অন–ডাই এল–২ ক্যাশ। ২০০৩ সালের ডিসেম্বর পর্যন্ত বাজারে ছিল পেন্টিয়াম টু প্রসেসর। পরে এর উত্তরসূরি হিসেবে ইন্টেল বাজারে আনে পেন্টিয়াম থ্রি ও সেলেরন প্রসেসর।",
+      "thumbnail": "thumbnail-1709879194655-585845274.jpg",
+      "author": {
+        "id": "c0c609d7b1465392f754",
+        "firstName": "shaheen",
+        "lastName": "uddin",
+        "avatar": "avatar-1709845798615-412801215.jpg"
+      },
+      "tags": "\"processor, computer, technology\"",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T06:26:34.669Z"
+    },
+    {
+      "id": "f4f6bc06e988ce0792c8",
+      "title": "হার্ডডিস্ক ও এসএসডির কিছুটা ঘাটতি থাকলেও কম্পিউটার যন্ত্রাংশের দাম আগের মতোই রয়েছে",
+      "content": "ঢাকার বিভিন্ন কম্পিউটার বাজারে এ সপ্তাহে কম্পিউটারের বিভিন্ন যন্ত্রাংশের দরদাম একই রকম থাকলেও চাহিদার তুলনায় হার্ডডিস্ক ড্রাইভ ও সলিড স্টেট ড্রাইভ (এসএসডি) সরবরাহে কিছুটা ঘাটতি দেখা গেছে। ঢাকার একাধিক কম্পিউটার বাজার ঘুরে উল্লেখযোগ্য পণ্যগুলোর দাম সংগ্রহ করেছেন তাসনিম মাহফুজ।",
+      "thumbnail": "thumbnail-1709880413898-567207849.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "[\"computer, harddisk, technology\"]",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T06:46:53.903Z"
+    },
+    {
+      "id": "04745fbd4e2cdef62d98",
+      "title": "ঢাকার বিভিন্ন কম্পিউটার বাজারে এ সপ্তাহে কম্পিউটারের বিভিন্ন যন্ত্রাংশের দরদাম",
+      "content": " ইন্টেল: কোর আই ৯ [৬.০০ গিগাহার্টজ (গি.হা.)] ১৪ প্রজন্ম ৭৩ হাজার ৫০০ টাকা, কোর আই ৯ (৫.৮০ গি.হা.) ১৩ প্রজন্ম ৬৭ হাজার টাকা, কোর আই ৭ (৫.৬০ গি.হা.) ১৪ প্রজন্ম ৫২ হাজার ৫০০ টাকা, কোর আই ৭ (৫.৪০ গি.হা.) ১৩ প্রজন্ম ৪৩ হাজার ৫০০ টাকা, কোর আই ৫ (৫.৩০ গি.হা.) ১৪ প্রজন্ম ৩৯ হাজার ৫০০ টাকা, কোর আই ৫ (৪.৬০ গি.হা.) ১৩ প্রজন্ম ২৬ হাজার ২০০ টাকা এবং কোর আই ৩ (৪.৫০ গি.হা.) ১৩ প্রজন্ম ১৩ হাজার ৫০০ টাকা।\r\n এএমডি: রাইজেন ৯ ৭৯০০এক্স (৪.৭০-৫.৬০ গি.হা.) ৪৯  হাজার ৫০০ টাকা, রাইজেন ৭ ৫৭০০জি (৩.৮-৪.৬ গি.হা.) ২০ হাজার টাকা, রাইজেন ৭ ৭৭০০এক্স (৪.৫০-৫.৪০ গি.হা.) ৩৩ হাজার ৫০০ টাকা এবং রাইজেন ৫ ৫৬০০জি (৩.৯০-৪. ৪০ গি.হা.) ১৫ হাজার ২০০ টাকা।",
+      "thumbnail": "thumbnail-1709881912497-250659367.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "[\"computer\",\"accessories\",\"ram\"]",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T07:11:52.502Z"
+    },
+    {
+      "id": "547219577c5e8bcb4442",
+      "title": "কম্পিউটারে মাইকেঞ্জেলো ভাইরাসের আক্রমণ",
+      "content": "ইন্টারনেট–পূর্ব যুগে মাইকেঞ্জেলো ( Michaelangelo) নামের কম্পিউটার ভাইরাস ছড়িয়ে পড়ে। ইতিহাসে একে প্রথম প্রকাশ্য ম্যালওয়্যার সংক্রমণ বলে ধরা হয়। মাইকেঞ্জেলো ভাইরাস কম্পিউটার নিরাপত্তার দিক থেকে একটি বাঁকবদলের ঘটনা। ১৯৯২ সালের ৬ মার্চ বিখ্যাত ইতালীয় ভাস্কর, চিত্রশিল্পী, স্থপতি ও কবি মাইকেঞ্জেলোর জন্মদিনে তাঁর নামে তৈরি করা এই ভাইরাস কম্পিউটারে ছড়িয়ে পড়ে। ৫০ লাখ কম্পিউটার মাইকেঞ্জেলো ভাইরাসের সংস্পর্শে আসে বলে জানা যায়। তবে কয়েক হাজার কম্পিউটার এই ভাইরাসে আক্রান্ত হয়েছিল। মাইকেঞ্জেলো নামের ক্ষতিকর প্রোগ্রাম বা ভাইরাসের কারণে আক্রান্ত কম্পিউটারগুলোর বায়োসের তথ্য মুছে গিয়েছিল।",
+      "thumbnail": "thumbnail-1709888005661-571700130.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709821892681-227243046.png"
+      },
+      "tags": "[\"virus\",\"technology\",\"computer\"]",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T08:53:25.681Z"
+    },
+    {
+      "id": "59c2f3230c4e6faef3c3",
+      "title": "দেশে পরিবেশবান্ধব উপাদানে মোবাইল ফোন টাওয়ার বসাবে ইডটকো ও হুয়াওয়ে",
+      "content": "বাংলাদেশে প্রথমবারের মতো ফাইবারগ্লাস রিইনফোর্সড প্লাস্টিক (এফআরপি) দিয়ে তৈরি পরিবেশবান্ধব মোবাইল টাওয়ার স্থাপনের উদ্যোগ নিয়েছে ইডটকো বাংলাদেশ ও হুয়াওয়ে টেকনোলজিস বাংলাদেশ। অত্যাধুনিক প্রযুক্তির ফাইবারগ্লাস টাওয়ারে ওজন গতানুগতিক স্টিলের টাওয়ারের চেয়ে ৪৪ শতাংশ কম এবং রেডিও তরঙ্গ প্রতিফলিত হয় না। ফলে মাইক্রোওয়েভ ট্রান্সমিশনের মান নিশ্চিত করা যাবে। যৌথভাবে ফাইবারগ্লাস টাওয়ার স্থাপনের জন্য সম্প্রতি স্পেনে অনুষ্ঠিত ‘মোবাইল ওয়ার্ল্ড কংগ্রেস’-এ একটি চুক্তি করেছে প্রতিষ্ঠান দুটি। আজ এক সংবাদ বিজ্ঞপ্তিতে এসব তথ্য জানিয়েছে হুয়াওয়ে টেকনোলজিস বাংলাদেশ।",
+      "thumbnail": "thumbnail-1709928744539-103697780.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709889990817-972163805.jpg"
+      },
+      "tags": "[\"mobile\",\"eco-friendly\",\"technology\"]",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-08T20:12:24.543Z"
+    },
+    {
+      "id": "a7dd93bd7e68df987251",
+      "title": "টিকটকে আয়ের নতুন সুযোগ",
+      "content": "ছোট আকারের ভিডিও সহজে তৈরি ও বিনিময়ের সুযোগ থাকায় তরুণ-তরুণীদের কাছে খুবই জনপ্রিয় টিকটক। আর তাই শখের বশে টিকটকে ভিডিও পোস্ট করে আয় করার পাশাপাশি তারকাও বনে গেছেন অনেকে। তবে বেশ কিছুদিন ধরেই বড় আকারের ভিডিও তৈরির জন্য নির্মাতাদের উৎসাহ দিচ্ছে টিকটক। এরই ধারাবাহিকতায় এবার বড় আকারের ভিডিও নির্মাতাদের জন্য ‘ক্রিয়েটর রিওয়ার্ডস প্রোগ্রাম’ কর্মসূচি আনুষ্ঠানিকভাবে চালু করেছে চীনের ভিডিও বিনিময়ের নেটওয়ার্কটি। নতুন এ উদ্যোগের আওতায় এক মিনিটের বেশি দৈর্ঘের ভিডিও তৈরি করে বেশি আয় করতে পারবেন নির্মাতারা।",
+      "thumbnail": "thumbnail-1709973893914-226224262.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709889990817-972163805.jpg"
+      },
+      "tags": "[\"ticktok\",\"social-media\",\"technology\"]",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-09T08:44:53.918Z"
+    },
+    {
+      "id": "bdb67e2cae5941b946b7",
+      "title": "কম্পিউটার অপারেটিং সিস্টেম দেখানো হলো",
+      "content": "দ্য এমআইটি সার্ভোমেকানিজমস ল্যাবরেটরি প্রথমবারের মতো ওয়ার্লউইন্ড কম্পিউটারের সাহায্যে ডিজিটাল ফায়ার কন্ট্রোলের ওপর সিম্পোজিয়ামের আয়োজন করে। সিম্পোজিয়ামের দ্বিতীয় দিন ১৯৫৫ সালের ৯ মার্চ প্রকল্পের প্রধান ডগলাস রস ওয়ার্লউইন্ডে ‘ডিরেক্টর’ নামে একটি প্রোগ্রাম প্রদর্শন করেন। মেমোরি, স্টোরেজ ও প্রিন্টের সুবিধাসহ কম্পিউটার চালাতে ও নিয়ন্ত্রণে সক্ষম ",
+      "thumbnail": "thumbnail-1709984122613-97982691.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709973980821-343127841.png"
+      },
+      "tags": "os,operating system,pc",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-09T11:35:22.617Z"
+    },
+    {
+      "id": "396304073f5ae5e4e878",
+      "title": "নতুন চিপ প্রযুক্তির প্রচারণা বড় বড় কম্পিউটার কোম্পানির জোট",
+      "content": "অ্যাপল কম্পিউটার ইনকরপোরেটেড, মটোরোলা ইনকরপোরেটেড, আইবিএম করপোরেশন ও আরও চারটি কম্পিউটার নির্মাতাপ্রতিষ্ঠান মিলে পাওয়ারওপেন অ্যাসোসিয়েশন ইনকরপোরটেড নামে একটি জোট গঠন করে। এর উদ্দেশ্য ছিল পরবর্তী প্রজন্মের পারসোনাল কম্পিউটার তৈরির প্রস্তুতি হিসেবে নতুন কম্পিউটার চিপ প্রযুক্তির উন্নয়ন ও প্রচার করা। পাওয়ারওপেন পরিবেশের সঙ্গে নতুন প্রযুক্তির চিপ কতটা সামঞ্জস্যপূর্ণ সেই পরীক্ষাও করে এই অ্যাসোসিয়েশন। এই উদ্যোগ থেকে অ্যাপলের পাওয়ার পিসির মতো কম্পিউটার তৈরি হয়।",
+      "thumbnail": "thumbnail-1709985267413-634987237.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709973980821-343127841.png"
+      },
+      "tags": "chips,processor,tech",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-09T11:54:27.438Z"
+    },
+    {
+      "id": "c28aa902bb89b1dbbaa7",
+      "title": "৮ টেক্সটাইল ইঞ্জিনিয়ারিং কলেজে ভর্তি, আসন ৯৬০, ক্যারিয়ার গড়তে চাইলে করুন আবেদন",
+      "content": "টেক্সটাইল ইঞ্জিনিয়ারিং সম্পর্কে প্রচলিত ধারণা হচ্ছে যে, টেক্সটাইল ইঞ্জিনিয়ারিংয়ে পড়লে শিক্ষার্থীরা কাপড় বানানো শেখানো হয়। আসলে এ বিষয়ের সঙ্গে কাপড় বানানোর সম্পর্ক তেমন নেই। টেক্সটাইল ইঞ্জিনিয়ারিংয়ে মূলত টেক্সটাইলের মৌলিক বিষয়গুলো পড়ানো হয়। তন্তু থেকে কাপড় বানানোর উপযোগী সুতা তৈরি, কিংবা একটি ফেব্রিককে আরামদায়ক করার জন্য যেসব পদ্ধতি রয়েছে, সেসব বিষয়ও পড়ানো হয়। অদাহ্য, তাপরোধী, রাসায়নিকরোধী কিংবা পানিরোধী ফেব্রিকের সম্ভাবনা ও ব্যবহার—এই সবকিছুই পড়ানো হয় টেক্সটাইল ইঞ্জিনিয়ারিংয়ে। এটি শুধু প্রকৌশল নয়, দৈনন্দিন জীবনের নিত্যপ্রয়োজনীয় পোশাক থেকে শুরু করে বিশেষায়িত (যেমন অগ্নিনির্বাপণকর্মীদের জন্য জ্যাকেট কিংবা মহাকাশচারীদের স্যুট) সবকিছুই টেক্সটাইল ইঞ্জিনিয়ারিংয়ের অন্তর্ভুক্ত। পৃথিবীর ৮০০ কোটি মানুষের জন্য এই বিশাল টেক্সটাইল খাতের জোগান দিতে গিয়ে পরিবেশের ওপর যে বিরূপ প্রভাব পড়ছে, সেটা প্রতিরোধ করাও টেক্সটাইল ইঞ্জিনিয়ারিংয়ের অংশ। নিত্যনতুন ডিজাইনের ফ্যাশন উদ্ভাবন থেকে শুরু করে যন্ত্রের রক্ষণাবেক্ষণ কিংবা তৈরি পণ্যের গুণগত মান নিশ্চিত করা—সবকিছুই পড়ানো হয় টেক্সটাইল ইঞ্জিনিয়ারিংয়ে।",
+      "thumbnail": "thumbnail-1709992042159-474403668.jpg",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1709973980821-343127841.png"
+      },
+      "tags": "texttile,loom,garments",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-09T13:47:22.162Z"
+    }
+  ]
+}
